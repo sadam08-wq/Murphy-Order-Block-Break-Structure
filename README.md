@@ -18,7 +18,9 @@ Ideal for traders who use:
 - SMC-based Scalping or Swing strategies
 
 ## 📸 Screenshots
-*(Insert screenshot here using: `![Alt Text](image_url)`)*
+https://postimg.cc/Q9R3sqqh
+https://postimg.cc/0rwvnL8Q
+
 
 ## 🛒 Product Page
 ➡️ [Buy on MQL5](https://www.mql5.com/en/market/product/YOUR_PRODUCT_ID)
